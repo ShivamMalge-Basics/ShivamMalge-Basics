@@ -2,9 +2,9 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-![GitHub repo size](https://img.shields.io/github/repo-size/Hedge-Ninja/python-basics)
-![GitHub language count](https://img.shields.io/github/languages/count/Hedge-Ninja/python-basics)
-![GitHub last commit](https://img.shields.io/github/last-commit/Hedge-Ninja/python-basics)
+![GitHub repo size](https://img.shields.io/github/repo-size/ShivamMalge-Basics/python-basics)
+![GitHub language count](https://img.shields.io/github/languages/count/ShivamMalge-Basics/python-basics)
+![GitHub last commit](https://img.shields.io/github/last-commit/ShivamMalge-Basics/python-basics)
 
 > This repository is a **public log** of my journey into Python and core Computer Science concepts — everything from writing `if-else` statements to building **logic-heavy mini projects** that lay the foundation for **AI & Quantitative Finance**.
 
@@ -32,8 +32,8 @@ Each project and concept comes with:
 
 Hey! I’m **Shivam Malge** — a CSE undergrad exploring:
 
-- 🤖 Machine Learning and Data Science
-- 💹 Quantitative Finance & Market Simulation
+- 🤖 Machine Learning and Data Science  
+- 💹 Quantitative Finance & Market Simulation  
 - 🧱 System Design and Full-Stack Dev
 
 This profile is a **sandbox** for learning, documenting, and experimenting.
@@ -68,7 +68,7 @@ A logic-based simulation of the Blackjack card game where you’ll learn:
 - 👥 **User interaction: hit or stand**
 - 🃏 **Ace handling (1 or 11 logic)**
 
-> 📂 Repo: [`blackjack-simulation`](https://github.com/Hedge-Ninja/blackjack-simulation)
+> 📂 Repo: [`blackjack-simulation`](https://github.com/ShivamMalge-Basics/blackjack-simulation)
 
 ---
 
@@ -84,7 +84,7 @@ A logic-based simulation of the Blackjack card game where you’ll learn:
 
 > These will update as the repo grows 👇
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hedge-Ninja&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamMalge-Basics&layout=compact&theme=github_dark)
 
 ---
 
@@ -92,8 +92,8 @@ A logic-based simulation of the Blackjack card game where you’ll learn:
 
 🎥 I’ll soon be publishing **bite-sized videos** on:
 
-- Python & DSA logic (from scratch)
-- Recursion, backtracking, and visual simulations
+- Python & DSA logic (from scratch)  
+- Recursion, backtracking, and visual simulations  
 - Building finance + ML tools from scratch
 
 Stay tuned!
@@ -110,8 +110,3 @@ Stay tuned!
 ## 🧭 License
 
 This project is open source under the [MIT License](https://opensource.org/licenses/MIT).
-
----
-
-> _"Code is not just meant to be written. It’s meant to be understood, challenged, and evolved."_  
-> — Shivam
