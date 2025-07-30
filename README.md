@@ -1,4 +1,4 @@
-# 👋 Welcome to ShivamMalge-Basics
+# 👋 Welcome to Hedge-Ninja
 
 This account is a public log of my Python and CS learning journey — where I document everything from **basic syntax** to **recursion**, **logic-building**, and **mini projects** that will eventually grow into **full-scale AI + Finance applications**.
 
